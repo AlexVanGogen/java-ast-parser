@@ -1,3 +1,5 @@
+package avgogen.javaast.run;
+
 import avgogen.javaast.stats.SummaryStatisticsCollector;
 import avgogen.javaast.util.filefinder.JavaFinder;
 import avgogen.javaast.visitor.VisitorImpl;
