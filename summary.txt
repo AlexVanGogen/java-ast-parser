@@ -1,0 +1,59 @@
+Summary:
+	Total classes: 6
+	Total interfaces: 2
+	Total enums: 0
+	Total methods: 31
+	Total parameters: 38
+		Class [ClassInsideStatisticsCollector]: 2 fields with average name lendth 6.5
+			10 methods with average name length 14.8
+			Method [newMethod]: 1 parameters with average name length 10.0
+			Method [newField]: 1 parameters with average name length 9.0
+			Method [newMethodsStatistics]: 1 parameters with average name length 19.0
+			Method [getClassName]: 0 parameters
+			Method [getMethodsCount]: 0 parameters
+			Method [getFieldsCount]: 0 parameters
+			Method [getAvgMethodNameLength]: 0 parameters
+			Method [getAvgFieldNameLength]: 0 parameters
+			Method [getType]: 0 parameters
+			Method [getMethodsStatistics]: 0 parameters
+		Class [MethodInsideStatisticsCollector]: 1 fields with average name lendth 9.0
+			4 methods with average name length 17.0
+			Method [newParameter]: 1 parameters with average name length 13.0
+			Method [getMethodName]: 0 parameters
+			Method [getParametersCount]: 0 parameters
+			Method [getAvgParameterNameLength]: 0 parameters
+		Class [SummaryStatisticsCollector]: 0 fields
+			8 methods with average name length 10.5
+			Method [summarize]: 0 parameters
+			Method [summarize]: 4 parameters with average name length 4.25
+			Method [newClass]: 1 parameters with average name length 9.0
+			Method [newInterface]: 1 parameters with average name length 13.0
+			Method [newMethod]: 1 parameters with average name length 10.0
+			Method [newEnum]: 1 parameters with average name length 10.0
+			Method [newParameter]: 1 parameters with average name length 13.0
+			Method [newClassStatistics]: 1 parameters with average name length 19.0
+		Class [Filter]: 0 fields
+			1 methods with average name length 5.0
+			Method [match]: 1 parameters with average name length 4.0
+		Class [Handler]: 0 fields
+			1 methods with average name length 6.0
+			Method [handle]: 1 parameters with average name length 4.0
+		Class [JavaFinder]: 2 fields with average name lendth 6.5
+			1 methods with average name length 7.0
+			Method [iterate]: 3 parameters with average name length 2.0
+		Class [VisitorImpl]: 0 fields
+			4 methods with average name length 5.0
+			Method [visit]: 2 parameters with average name length 2.0
+			Method [visit]: 2 parameters with average name length 2.0
+			Method [visit]: 2 parameters with average name length 2.0
+			Method [visit]: 2 parameters with average name length 2.0
+		Class [Main]: 0 fields
+			2 methods with average name length 7.0
+			Method [getClasses]: 5 parameters with average name length 5.4
+			Method [main]: 1 parameters with average name length 4.0
+
+Average statistics
+	Average class name length: 18.666666666666668
+	Average interface name length: 6.5
+	Average method name length: 11.35483870967742
+	Average parameter name length: 6.2631578947368425
